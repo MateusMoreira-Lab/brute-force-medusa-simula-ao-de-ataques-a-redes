@@ -148,7 +148,5 @@ Este material é educativo. Não use técnicas aqui descritas contra sistemas se
 
 Mateus Dias Moreira
 
----
 
-Se quiser que eu também crie o arquivo `medusa.sh` pronto para download, me avisa que eu gero ele aqui no repositório.
 
